@@ -10,6 +10,15 @@ learning techniques with function approximation using a neural network. The resu
 highlighting the importance of proper action distribution modeling in reinforcement
 learning.
 
+
+
+
+
+https://github.gatech.edu/emohagheghian3/Learning-Optimal-Lunar-Landings-A-PPO-Clip-with-Beta-Distribution-Approach/assets/93353/c7b1e586-3c45-46e6-aef8-945f76f25a99
+
+
+
+
 <img width="695" alt="image" src="https://github.gatech.edu/emohagheghian3/Learning-Optimal-Lunar-Landings-A-PPO-Clip-with-Beta-Distribution-Approach/assets/93353/50b1e111-1913-4a08-a974-bce3f2c80d6b">
 
 <img width="697" alt="image" src="https://github.gatech.edu/emohagheghian3/Learning-Optimal-Lunar-Landings-A-PPO-Clip-with-Beta-Distribution-Approach/assets/93353/ffa7a682-7bc7-4b68-ba35-fc7f4c33b3fa">
