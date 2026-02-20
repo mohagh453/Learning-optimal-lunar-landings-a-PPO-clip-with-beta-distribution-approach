@@ -24,6 +24,6 @@ https://github.gatech.edu/emohagheghian3/Learning-Optimal-Lunar-Landings-A-PPO-C
 ![Demo](2.png)
 
 ![Demo](3.png)
-<video width="800" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
+
+![Demo](video.gif)
+
