@@ -19,9 +19,11 @@ https://github.gatech.edu/emohagheghian3/Learning-Optimal-Lunar-Landings-A-PPO-C
 
 
 
-<img width="695" alt="image" src="https://github.gatech.edu/emohagheghian3/Learning-Optimal-Lunar-Landings-A-PPO-Clip-with-Beta-Distribution-Approach/assets/93353/50b1e111-1913-4a08-a974-bce3f2c80d6b">
+![Demo](1.png)
 
-<img width="697" alt="image" src="https://github.gatech.edu/emohagheghian3/Learning-Optimal-Lunar-Landings-A-PPO-Clip-with-Beta-Distribution-Approach/assets/93353/ffa7a682-7bc7-4b68-ba35-fc7f4c33b3fa">
+![Demo](2.png)
 
-<img width="697" alt="image" src="https://github.gatech.edu/emohagheghian3/Learning-Optimal-Lunar-Landings-A-PPO-Clip-with-Beta-Distribution-Approach/assets/93353/c7d95d70-7ee9-4a10-9e4c-05bb76ce3252">
-
+![Demo](3.png)
+<video width="800" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
